@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FyGvfwIFs6S2rwe/vIjNr4quW2FKHyP8cgARDxRYlbwP0x9OljLWlM1q4JY/HsNTta39jWKO1LCEDTTF+cmqpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Duban Sierra\\Documents\\Trabajo\\Prueba-test-api\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Duban Sierra\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
